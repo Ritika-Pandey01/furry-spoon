@@ -1,4 +1,4 @@
-#Furry Spoon
+##Furry Spoon
 Furry Spoon is a tinder website for dogs.
 ## Lessons Learned
 
